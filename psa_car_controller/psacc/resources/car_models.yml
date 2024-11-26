@@ -1,4 +1,11 @@
 - !ElecModel
+  name: Mokka-e
+  battery_power: 46
+  fuel_capacity: 0
+  abrp_name: vauxhall:mokkae:20:48
+  reg: VXKUKZKX.*
+  max_elec_consumption: 70
+- !ElecModel
   name: e-3008
   battery_power: 73
   fuel_capacity: 0
